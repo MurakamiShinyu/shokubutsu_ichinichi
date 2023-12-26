@@ -33,7 +33,7 @@
 　今日中国の書物に、ジャガイモに対し往々馬鈴薯の名が使ってあるが、これはその誤りを日本から伝え、中国人が無自覚にそれを盲従しているにすぎないのである。こんなわけであるから、たとえ、今の中国人が馬鈴薯の字を使っていても、なにもそれは信頼するには足りないことを十分に承知していなければならない。ジャガイモを馬鈴薯だとする誤認は日本でも中国でも敢て変わりはない。
 
 <figure class="illustration">
-<img src="fig46820_01.png" alt="図">
+<img src="img/fig46820_01.png" alt="図">
 <figcaption>
 
 ジャガイモ（Solanum tuberosum *L*.）
@@ -42,7 +42,7 @@
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_02.png" alt="図">
+<img src="img/fig46820_02.png" alt="図">
 <figcaption>
 
 九子羊（『植物名実図考』）
@@ -53,7 +53,7 @@
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_03.png" alt="図">
+<img src="img/fig46820_03.png" alt="図">
 <figcaption>
 
 土圞児（『救荒本草』）
@@ -82,7 +82,7 @@
 　{岩崎灌園|いわさきかんえん}の『{本草図譜|ほんぞうずふ}』巻之四十八に、ササユリの一名として、サク（豆州三倉島方言）、イネラ（八丈島方言）の名が挙げてあるが、このサクとイネラとはサックイネラでこれはサクユリ（Lilium platyphyllum *Makino*）の名であってササユリの名ではない。
 
 <figure class="illustration">
-<img src="fig46820_04.png" alt="図">
+<img src="img/fig46820_04.png" alt="図">
 <figcaption>
 
 百合（『植物名実図考』）
@@ -151,7 +151,7 @@
 　ミツバアケビの実の皮は鮮紫色ですこぶる美しいが、普通のアケビの実の皮はそれほど美しくはない。熟したアケビの実の皮は厚ぼったいものである。中の肉身を採った残りの皮を油でイタメ味を付けて食用にすることがあるが、なかなか風雅なものである。
 
 <figure class="illustration">
-<img src="fig46820_05.png" alt="図">
+<img src="img/fig46820_05.png" alt="図">
 <figcaption>
 
 アケビ（Akebia quinata *Decne*.）の果実
@@ -192,7 +192,7 @@
 　オニフスベはキツネノチャブクロ科で、その学名は今日では Lasiosphaera nipponica *Kobayashi* となっているが、もとの学名は *Calvatia nipponica* Kawamura であって、これを日本の特産菌と認め初めてその新学名を作り発表したのは{川村清一|かわむらせいいち}博士であった。
 
 <figure class="illustration">
-<img src="fig46820_06.png" alt="図">
+<img src="img/fig46820_06.png" alt="図">
 <figcaption>
 
 キツネノヘダマすなわちオニフスベ
@@ -269,7 +269,7 @@ Lasiosphaera nipponica *Kobayashi*（＝*Calvatia nipponica* Kawamura）
 　今ここにそのしかるゆえんを説明するために、私は次の図を創意してみた。すなわちこれでみればその状が一目瞭然であろう。誰でもなるほどと合点が行くであろう。すなわちその花穂の中軸が段々と膨大して頂の方から窪みはじめて陥ちこみ、漸次にその度が増してついにはこれを包んでしまい、花はみなその中へ閉じこめられるのである。そして今想像してみると、その常態の花穂から始まってついに閉在花穂成立までの過程は、どれほど悠久な地質的年代を経過し来ったものかはとても考え及ぶところではない。もしそこにその原始型の化石でもあれば、あるいはおよその年代も多少推測が出来るかも知れない。
 
 <figure class="illustration">
-<img src="fig46820_07.png" alt="図">
+<img src="img/fig46820_07.png" alt="図">
 <figcaption>
 
 シーボルト画像
@@ -358,7 +358,7 @@ Lasiosphaera nipponica *Kobayashi*（＝*Calvatia nipponica* Kawamura）
 　大正十四年八月に、飛騨の高山の町で同町の二木長右衛門氏に聞いた話では、「馬糞ナドニ生エル馬糞菌ヲ喜ンデ食フコトガアル」とのことであった。また「何レノ菌デモ一度煮出シ置キ其後ニ調食セバ無毒トナリ食フ事ガ出来ル」とのことも聞いた。この高山町では漬物の季節に当たって、近在から町へ売りに来る種々な菌を漬物と一緒にそれへ漬け込むのである。同町では定まった漬物日があって年中行事の一つとなっており、その日に各家で漬物をする。その漬物桶が家によってはとても結構なのが用意せられているとのことである。これは他国では見られぬ珍らしい習俗である。そして当時その中へ漬ける蕪は同地普く栽培せられてある赤カブであったが、今はどうなっているだろうか。また右漬物用の菌はどんな種類であるのか調査してみたいものだ。日本の菌学者はこの好季に一度見学に出陣してはどうか、必ず得るところがあるのは請合だ。
 
 <figure class="illustration">
-<img src="fig46820_09.png" alt="図">
+<img src="img/fig46820_09.png" alt="図">
 <figcaption>
 
 マグソダケ（馬糞蕈）
@@ -397,7 +397,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　今日いう、ハナタデの名も上の『草木図説』に従ったものだが、これも誤りであるから私は新たにこれをヤブタデと名づけた。その花穂は痩せ花は小さくて貧弱、色は淡紅紫で浅く、けっして花タデの名にふさわしくない。私は以前からこんな花のものがどうして花タデの名であるのかと常にこれを怪しんでいたが、果たせるかな本当のハナタデはこれではなかった。
 
 <figure class="illustration">
-<img src="fig46820_10.png" alt="図">
+<img src="img/fig46820_10.png" alt="図">
 <figcaption>
 
 ハナタデ一名アカノマンマ
@@ -408,7 +408,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_11.png" alt="図">
+<img src="img/fig46820_11.png" alt="図">
 <figcaption>
 
 ヤブタデ（誤称ハナタデ）
@@ -431,7 +431,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　早春、水に湿った田に往々低い茎のあるいは立ちあるいは横斜したヤナギタデが越冬して残り、田面をわたる東風に揺れつつ早くも開花結実しているのを見かけるが、これはなんら他の種ではなく、別になんらの名を設ける必要もなく、やはりそれは Polygonum Hydropiper *L*. にほかならない。私は前々から時々これに出会っているからよくその委細を呑みこんでいる。軽率な人はこれを別種のものとしているが、それはけっして穏健な意見ではない。
 
 <figure class="illustration">
-<img src="fig46820_12.png" alt="図">
+<img src="img/fig46820_12.png" alt="図">
 <figcaption>
 
 カワタデ一名ミゾタデ（飯沼慾斎著『草木図説』）
@@ -462,7 +462,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 </blockquote>
 
 <figure class="illustration">
-<img src="fig46820_13.png" alt="図">
+<img src="img/fig46820_13.png" alt="図">
 <figcaption>
 
 ボントクタデ（飯沼慾斎著『草木図説』の図）
@@ -525,7 +525,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　菩提樹について『{翻訳名義集|ほんやくめいぎしゅう}』によれば、この樹は一つに{畢鉢羅|ヒッパツラ}樹と称する。仏がその下に坐して正覚を成等するによって、これを菩提樹というとある。またこの菩提樹は梵語ではピップラといい、ヒンドスタン等ではピッパル、ピパルあるいはピプルと呼ばれるとの事だ。
 
 <figure class="illustration">
-<img src="fig46820_14.png" alt="図">
+<img src="img/fig46820_14.png" alt="図">
 <figcaption>
 
 ボダイジュ（贋の菩提樹）（Tillia Miqueliana *Maxim*.）原図、ただし果実ならびに花の図解剖諸事は白沢保美著『日本森林樹木図譜』による
@@ -534,7 +534,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_15.png" alt="図">
+<img src="img/fig46820_15.png" alt="図">
 <figcaption>
 
 菩提樹（Ficus religiosa *L*.）インド産
@@ -559,7 +559,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　この偉人の{墳塋|ぼえい}は右に記したように誓願寺に在ったのだが、後ち昭和四年に練馬南町の迎接院（浄土宗）に改葬せられた。そして改葬の際先生の髑髏がその後裔によって親しく撮影せられ、私は同遺族小野家主人の好意でこの写真を秘蔵する光栄に浴し得たのである。
 
 <figure class="illustration">
-<img src="fig46820_16.png" alt="図">
+<img src="img/fig46820_16.png" alt="図">
 <figcaption>
 
 小野蘭山先生の髑髏
@@ -568,7 +568,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_17.png" alt="図">
+<img src="img/fig46820_17.png" alt="図">
 <figcaption>
 
 ホルトソウ
@@ -591,7 +591,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　秋海棠はジャワならびに中国の原産であって Begonia Evansiana *Andr*. の学名を有し、またさらに *Begonia discolor* R. Br. ならびに *Begonia grandis* Dryand. の異名がある。
 
 <figure class="illustration">
-<img src="fig46820_18.png" alt="図">
+<img src="img/fig46820_18.png" alt="図">
 <figcaption>
 
 自然の姿となっている紀州那智山の秋海棠（太田馬太郎君寄贈）
@@ -708,7 +708,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　また万葉歌のアサガオをヒルガオだとする人もあったが、この説もけっして穏当ではない。
 
 <figure class="illustration">
-<img src="fig46820_19.png" alt="図">
+<img src="img/fig46820_19.png" alt="図">
 <figcaption>
 
 （古名）アサガオ（一名）オカトドキ
@@ -937,7 +937,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 　この菌はまたアスナロに近縁異属のクロベ一名ネズコすなわち Thuja Standishii *Carr*.（＝*Thuja japonica* Maxim.）にも寄生するのだが、この樹のものは瘠小で緑色を呈しすこぶる貧弱な姿を呈している。私はこれをクロベヒジキと新称し、その学名を Caeoma deformans *Tubeuf* var. gracilis *Makino*, var. nov.（Body smaller, slender, loosely ramose, green.）と定めたがこれは稀品であって、私はこれを野州日光の湯本で採った。
 
 <figure class="illustration">
-<img src="fig46820_20.png" alt="図">
+<img src="img/fig46820_20.png" alt="図">
 <figcaption>
 
 アスナロウノヤドリギ＝アスナロノヒジキ
@@ -948,7 +948,7 @@ Panaeolus fimicola *Fries*＝*Coprinarius fimicola* Schroet.＝*Agaricus fimicol
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_21.png" alt="図">
+<img src="img/fig46820_21.png" alt="図">
 <figcaption>
 
 Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*. *et Broom*.）
@@ -1073,7 +1073,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 　はじめに出した「潮来出島の真菰の中であやめ咲くとはしほらしや」の中にある{出島|でじま}は直ぐ潮来町の真向いに見える小さい州の島で、{蘆|よし}や真菰が生えていた。
 
 <figure class="illustration">
-<img src="fig46820_22.png" alt="図">
+<img src="img/fig46820_22.png" alt="図">
 <figcaption>
 
 今日のアヤメ、昔のハナアヤメ（陸地に生えていて水にはない）
@@ -1082,7 +1082,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_23.png" alt="図">
+<img src="img/fig46820_23.png" alt="図">
 <figcaption>
 
 今日のショウブ、昔のアヤメ
@@ -1109,7 +1109,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 「駒の渡りの瓜作り、瓜を人にとられじと、守る夜あまたになりぬれば、瓜を枕につい寝たり」という今様歌がある、瓜を枕に野天の瓜畑で寝た風流はまことに羨ましい。
 
 <figure class="illustration">
-<img src="fig46820_24.png" alt="図">
+<img src="img/fig46820_24.png" alt="図">
 <figcaption>
 
 マクワウリ　甜瓜（Cucumis Melo *L*. var. Makuwa *Makino*）
@@ -1274,7 +1274,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 　文化四年（1807）出版の{丹波頼理|たんばよりよし}著『{本草薬名備考和訓鈔|ほんぞうやくみょうびこうわくんしょう}』にはサワアザミが正しく鶏項草となっているが、文化六年（1809）発行の{水谷豊文|みずたにほうぶん}著『{物品識名|ぶつひんしきめい}』には鶏頂草となっている。
 
 <figure class="illustration">
-<img src="fig46820_25.png" alt="図">
+<img src="img/fig46820_25.png" alt="図">
 <figcaption>
 
 正名サワアザミ
@@ -1285,7 +1285,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_26.png" alt="図">
+<img src="img/fig46820_26.png" alt="図">
 <figcaption>
 
 正名マアザミ
@@ -1374,7 +1374,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 > 恐れ山から{時雨|しぐれ}りよとまゝよ、両手にかざす{菌傘|きのこがさ}、用心すれば雨は来で、光りさし込む森の中、やるせないまゝ傘ふって、踊って見せる松のかげ、その腰つきのおかしさに、森よりもるゝ笑い声、道行く人は何事と、のぞいて見れば此の姿。
 
 <figure class="illustration">
-<img src="fig46820_27.png" alt="図">
+<img src="img/fig46820_27.png" alt="図">
 <figcaption>
 
 ニギリタケ一名カラカサダケ
@@ -1385,7 +1385,7 @@ Uromyces deformans *Berk*. *et Broom*. 1-6（7-8は Puccinia corticioides *Berk*
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_28.png" alt="図">
+<img src="img/fig46820_28.png" alt="図">
 <figcaption>
 
 坂本浩然『菌譜』のニギリタケの図
@@ -1794,7 +1794,7 @@ Cotton tree; Silk cotton tree; Red Silk cotton tree.
 と書いてある。そしてこの毛竹の名はあるいは猫竹の音便で毛竹となったのかも知れないが、しかしモウソウチクにあってはその嫩稈の膚面に短細毛が密布（後に脱落する）しているので、あるいはそれで毛竹というのかとも思われるが、果たして然るか否かはっきりしない。
 
 <figure class="illustration">
-<img src="fig46820_29.png" alt="図">
+<img src="img/fig46820_29.png" alt="図">
 <figcaption>
 
 狸頭竹の冬筍と春筍、李※『竹譜詳録』
@@ -1873,7 +1873,7 @@ Cotton tree; Silk cotton tree; Red Silk cotton tree.
 　上の『{山海経|せんがいきょう}』にある薫草は、蓋し零陵香の一名なる薫草と同じものであろう。またこれは蕙草ともいわれる、すなわちクチビルバナ科のカミメボウキ（神眼箒の意）で Ocimum sanctum *L*. の学名を有し、メボウキすなわち Ocimum Bacilicum *L*. と姉妹品である。
 
 <figure class="illustration">
-<img src="fig46820_30.png" alt="図">
+<img src="img/fig46820_30.png" alt="図">
 <figcaption>
 
 ジャコウソウ（Chelonopsis moschata *Miq*.）
@@ -2138,7 +2138,7 @@ Cocculus trilobus *DC*.（＝*Cocculus Thunbergii* DC.）
 　先年私は広島県安芸の国の三段峡入口で銀白色を呈していたマンネンタケ一個、その菌蓋の直径およそ十センチメートルばかりのものを得て東京に持ち帰った。その菌体の色から私はこれをシロマンネンタケと号けたが、その学名は未詳である。多分一つの新種に属するものであろうと想像するが、そのうち菌学専門家に聴いてみたいと思っている。
 
 <figure class="illustration">
-<img src="fig46820_31.png" alt="図">
+<img src="img/fig46820_31.png" alt="図">
 <figcaption>
 
 マンネンタケの種々の形状
@@ -2147,7 +2147,7 @@ Cocculus trilobus *DC*.（＝*Cocculus Thunbergii* DC.）
 </figure>
 
 <figure class="illustration">
-<img src="fig46820_32.png" alt="図">
+<img src="img/fig46820_32.png" alt="図">
 <figcaption>
 
 Boletus dimidiatus *Thunb*.*Mannen Taki*（*Thunberg*, Fl. Jap. p. 348, tab. ⅩⅩⅩⅨ）Fomes dimidiatus *Makino*（nov. comb.）
