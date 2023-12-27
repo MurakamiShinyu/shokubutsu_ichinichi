@@ -1,0 +1,193 @@
+@charset "UTF-8";
+
+html {
+  /* writing-mode: vertical-rl; */
+  font-family: serif;
+  line-height: 1.75;
+  text-align: justify;
+  text-spacing: space-first;
+  hanging-punctuation: allow-end;
+}
+
+p {
+  margin: 0;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-block: 1em;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-block: 1em;
+}
+
+.author {
+  font-family: sans-serif;
+  text-align: end;
+  font-size: 1.2em;
+}
+
+blockquote {
+  margin-block: 1lh;
+  margin-inline: 2em 0;
+}
+
+ul, ol {
+  margin-block: 1lh;
+  margin-inline: 0;
+  padding-inline-start: 2em;
+}
+
+.burasage {
+  padding-inline-start: 1em;
+  text-indent: -1em;
+}
+
+.sesame_dot {
+  text-emphasis: filled sesame;
+  font-style: normal;
+}
+
+.underline_solid {
+  text-decoration: underline;
+  font-style: normal;
+}
+
+.kaeriten {
+  vertical-align: baseline;
+  font-size: 0.5em;
+  position: relative;
+  inset-block-start: 0.5em;
+}
+
+.okurigana {
+  vertical-align: baseline;
+  font-size: 0.5em;
+  position: relative;
+  inset-block-start: -0.5em;
+}
+
+/* 図版 */
+
+figure {
+  writing-mode: horizontal-tb;
+  float-reference: page;
+  float: top;
+  margin-inline: 0;
+  width: 100%;
+}
+
+figure img {
+  display: block;
+  margin: auto;
+  max-width: 100vw;
+  max-height: 60vh;
+}
+
+figcaption {
+  font-family: sans-serif;
+  font-size: 0.8em;
+  line-height: 1.5;
+  text-align: center;
+  text-wrap: balance;
+}
+
+h2 {
+  clear: all;
+}
+
+/* ページ */
+
+@page :left {  
+  @top-left {
+    content: string(title);
+    writing-mode: horizontal-tb;
+    font-size: 0.8em;
+  }
+  @bottom-left {
+    content: counter(page);
+    writing-mode: horizontal-tb;
+    font-size: 0.8em;
+  }
+}
+
+@page :right {  
+  @top-right {
+    content: string(section-title);
+    writing-mode: horizontal-tb;
+    font-size: 0.8em;
+  }
+  @bottom-right {
+    content: counter(page);
+    writing-mode: horizontal-tb;
+    font-size: 0.8em;
+  }
+}
+
+@page :first {
+  @top-left {
+    content: none;
+  }
+  @top-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @bottom-right {
+    content: none;
+  }
+}
+
+@page :blank {
+  @top-left {
+    content: none;
+  }
+  @top-right {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @bottom-right {
+    content: none;
+  }
+}
+
+/* 柱の文字列 */
+
+h1 {
+  string-set: title content();
+}
+
+h2 {
+  string-set: section-title content();
+}
+
+/* 目次 */
+
+.toc li a:after {
+  content: leader("…") target-counter(attr(href), page);
+  text-combine-upright: all;
+}
+
+.toc li a {
+  text-decoration: none;
+}
+
+/* 改ページ */
+
+.toc {
+  break-before: page;
+  break-after: page;
+}
+
+.afterword, .colophon {
+  break-before: page;
+}
