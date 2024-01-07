@@ -6,7 +6,7 @@
   /* writing-mode: vertical-rl; */
   font-family: serif;
   /* font-size: 10pt; */
-  line-height: 1.75;
+  line-height: 2;
   text-align: justify;
   text-spacing: space-first;
   hanging-punctuation: allow-end;
@@ -27,7 +27,7 @@ h1 {
 .author {
   font-family: sans-serif;
   text-align: end;
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
 
 /* 節見出し */
@@ -35,7 +35,7 @@ h1 {
 h2 {
   font-family: sans-serif;
   font-weight: bold;
-  font-size: 1.2rem;
+  font-size: 1.75rem;
   line-height: 1rlh;
   margin-block-start: 1rlh;
   margin-block-end: 1rlh;
@@ -52,8 +52,7 @@ blockquote {
 
 ul,
 ol {
-  margin-block: 1lh;
-  margin-inline: 0;
+  margin: 0;
   padding-inline-start: 2em;
 }
 
@@ -113,7 +112,7 @@ figure {
   float: right;
   clear: right;
   margin-inline: 1em 0;
-  margin-block: 0 1em;
+  margin-block: 0 1lh;
   max-width: 50vw;
 }
 
@@ -233,8 +232,8 @@ figcaption {
 /* ページの設定 */
 
 @page {
-  size: A5;
-  margin: 20mm;
+  size: A4;
+  margin: 25mm;
 }
 
 @page :left { /* 左ページ */
