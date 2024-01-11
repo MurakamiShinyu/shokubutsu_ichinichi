@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* 本文の設定 */
+/* 本文の基本設定 */
 
 :root {
   /* writing-mode: vertical-rl; */
@@ -10,10 +10,26 @@
   text-align: justify;
   text-spacing: space-first;
   hanging-punctuation: allow-end;
+  widows: 1;
+  orphans: 1;
 }
 
 p {
   margin: 0;
+}
+
+/* 見出しの基本設定 */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: start;
+  text-spacing: trim-auto;
+  hanging-punctuation: none;
+  word-break: auto-phrase;
+  margin-break: keep;
+  break-inside: avoid;
+  break-after: avoid;
 }
 
 /* タイトルと著者名 */
@@ -30,15 +46,27 @@ h1 {
   font-size: 1.2rem;
 }
 
-/* 節見出し */
+/* 章見出し */
 
 h2 {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 1.75rem;
   line-height: 1rlh;
+  break-before: page;
   margin-block-start: 1rlh;
   margin-block-end: 1rlh;
+}
+
+/* 節見出し */
+
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1rlh;
+  margin-block-start: 1.5rlh;
+  margin-block-end: 0.5rlh;
 }
 
 /* 引用ブロック */
@@ -213,6 +241,10 @@ figcaption {
   text-combine-upright: all;
 }
 
+.toc ul {
+  list-style: none;
+}
+
 .toc li a {
   text-decoration: none;
 }
@@ -252,7 +284,7 @@ figcaption {
 
 @page :right { /* 右ページ */
   @top-right {
-    content: string(section-title); /* 柱：節タイトル */
+    content: string(chapter-title); /* 柱：節タイトル */
     writing-mode: horizontal-tb;
     font-size: 0.8rem;
   }
@@ -307,5 +339,5 @@ h1 {
 }
 
 h2 {
-  string-set: section-title content();
+  string-set: chapter-title content();
 }
