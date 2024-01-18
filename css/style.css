@@ -284,7 +284,7 @@ figcaption {
 
 @page :right { /* 右ページ */
   @top-right {
-    content: string(chapter-title); /* 柱：節タイトル */
+    content: string(chapter-title); /* 柱：章タイトル */
     writing-mode: horizontal-tb;
     font-size: 0.8rem;
   }

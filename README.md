@@ -11,7 +11,13 @@ vivliostyle preview shokubutsu_ichinichi.md
 Vivliostyle CLI でPDF生成:
 
 ```sh
-vivliostyle build shokubutsu_ichinichi.md --output shokubutsu_ichinichi.pdf
+vivliostyle build shokubutsu_ichinichi.md -o shokubutsu_ichinichi.pdf
+```
+
+Vivliostyle CLI でEPUB生成:
+
+```sh
+vivliostyle build shokubutsu_ichinichi.md -o shokubutsu_ichinichi.epub
 ```
 
 ## 青空文庫版『植物一日一題』とVivliostyleサンプル版のための改変について
@@ -54,4 +60,4 @@ vivliostyle build shokubutsu_ichinichi.md --output shokubutsu_ichinichi.pdf
   - [ページサイズ](https://drafts.csswg.org/css-page-3/#page-size-prop)
   - [ページマージンボックス](https://drafts.csswg.org/css-page-3/#margin-boxes)
   - [ページカウンター](https://drafts.csswg.org/css-page-3/#page-based-counters)
-- 柱の設定：[名前付き文字列](https://drafts.csswg.org/css-content-3/#named-strings)
+- 柱の設定：[名前付き文字列](https://drafts.csswg.org/css-gcpm/#named-strings)
