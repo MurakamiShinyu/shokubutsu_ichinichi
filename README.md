@@ -48,7 +48,7 @@ vivliostyle build shokubutsu_ichinichi.md -o shokubutsu_ichinichi.epub
   - 縦書きでの文字の向き：[text-orientation プロパティ](https://drafts.csswg.org/css-writing-modes-3/#text-orientation)
   - 縦中横：[text-combine-upright プロパティ](https://drafts.csswg.org/css-writing-modes-3/#text-combine-upright)
 - [ページフロート](https://drafts.csswg.org/css-page-floats/)
-- [脚注](https://drafts.csswg.org/css-gcpm/#footnotes)
+- [脚注](https://drafts.csswg.org/css-gcpm-3/#footnotes)
 - [改ページの制御](https://drafts.csswg.org/css-break/#breaking-controls)
   - break-before, break-after, break-inside プロパティ
 - 目次関連
@@ -60,4 +60,4 @@ vivliostyle build shokubutsu_ichinichi.md -o shokubutsu_ichinichi.epub
   - [ページサイズ](https://drafts.csswg.org/css-page-3/#page-size-prop)
   - [ページマージンボックス](https://drafts.csswg.org/css-page-3/#margin-boxes)
   - [ページカウンター](https://drafts.csswg.org/css-page-3/#page-based-counters)
-- 柱の設定：[名前付き文字列](https://drafts.csswg.org/css-gcpm/#named-strings)
+- 柱の設定：[名前付き文字列](https://drafts.csswg.org/css-gcpm-3/#named-strings)
